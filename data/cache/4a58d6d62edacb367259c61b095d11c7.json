@@ -1,0 +1,196 @@
+{
+  "timestamp": "2025-11-02T03:34:01.237697",
+  "source": "clinical_trials",
+  "query": "cancer prevention_10_None",
+  "data": [
+    {
+      "nct_id": "NCT02767375",
+      "title": "Hepatic Arterial Infusion Chemotherapy(HAIC) for Hepatoma After Resection",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "interventions": [
+        "Oxaliplatin(OXA), 5-fluorouracil (5-FU)",
+        "Hepatic arterial catheter implantation"
+      ],
+      "brief_summary": "To study if the addition of HAIC following complete removal of early stage liver cancer of HCC will prevent or delay the recurrence of the disease. Half of the participant will receive two cycles of the HAIC after the hepatectomy, while the other half will return to the baseline surveillance schedule.",
+      "start_date": "2015-02",
+      "completion_date": "2018-12",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT02767375"
+    },
+    {
+      "nct_id": "NCT02203565",
+      "title": "Dakin's Solution in Preventing Radiation Dermatitis in Patients With Breast Cancer Undergoing Radiation Therapy",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Breast Cancer",
+        "Skin Reactions Secondary to Radiation Therapy"
+      ],
+      "interventions": [
+        "Dakin's solution",
+        "radiation therapy",
+        "questionnaire administration",
+        "laboratory biomarker analysis"
+      ],
+      "brief_summary": "This pilot clinical trial studies Dakin's solution in preventing radiation dermatitis in patients with breast cancer undergoing radiation therapy. Radiation dermatitis is a skin condition in which the affected skin becomes painful, red, itchy, and blistered. Dakin's solution may help reduce dermatitis caused by radiation therapy.",
+      "start_date": "2014-07",
+      "completion_date": "2016-07-07",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT02203565"
+    },
+    {
+      "nct_id": "NCT06290206",
+      "title": "PREVENT HPV-Related Cancers - BootCamp Translation",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "HPV Vaccination",
+        "Vaccine; Uptake",
+        "Vaccination; Series Completion"
+      ],
+      "interventions": [
+        "PREVENT - BCT"
+      ],
+      "brief_summary": "This study will serve as one of the first to develop and test the effectiveness of strategies to promote HPV vaccination among diverse rural parents and caregivers of children ages 9-17 years in the Mountain West. Once implemented into practice, this intervention could significantly reduce disparities in the burden of HPV-associated cancers among rural populations in the United States.\n\nThe proposed study will determine the components of clinic-based outreach to increase vaccination rates for HP",
+      "start_date": "2024-02-02",
+      "completion_date": "2024-03-31",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT06290206"
+    },
+    {
+      "nct_id": "NCT03822234",
+      "title": "A Clinical Trial of Extraperitonealization for Prevention of Parastomal Hernia After Ileal Conduit",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Bladder Cancer"
+      ],
+      "interventions": [
+        "Modified ileal conduit"
+      ],
+      "brief_summary": "Many complications may occur after ileal conduit, with the incidence increasing with time after surgery. Nearly half of the complications are related to stoma and ureteroileal anastomosis. The investigators believe that the surgical technique is responsible for these complications, and therefore have devised a modified technique for creating the ileal conduit that should help prevent these complications after surgery. The investigators' retrospective study shows that modified surgical technique ",
+      "start_date": "2019-01-15",
+      "completion_date": "2020-03-11",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT03822234"
+    },
+    {
+      "nct_id": "NCT05939687",
+      "title": "Prophylactic Mesh Placement During Stoma Closure After Low Anterior Resection",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Neoplasms Malignant",
+        "Rectal Cancer",
+        "Hernia Incisional",
+        "Surgery"
+      ],
+      "interventions": [
+        "mesh",
+        "non-mesh"
+      ],
+      "brief_summary": "The goal of this clinical trial is to compare the efficacy of using polypropylene mesh for hernia prevention after stoma closure in patients with colorectal cancer and non-mesh repair. The main question it aims to answer is: can mesh help prevent hernia? Participants will be divided into 2 groups: with and without mesh using. They must be followed up for 2 years after enrollment in the study.\n\nResearchers will compare mesh and non-mesh groups to evaluate the benefits and harms of mesh using in h",
+      "start_date": "2023-06-05",
+      "completion_date": "2028-12-01",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT05939687"
+    },
+    {
+      "nct_id": "NCT05551416",
+      "title": "The EpiGASTRIC/EDGAR Project: New Strategies for the Early Detection and Prevention of Gastric Cancer",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Gastric Neoplasms",
+        "Gastric Cancer",
+        "Gastric Lesion"
+      ],
+      "interventions": [
+        "Identification of risk factors",
+        "Characterization of premalignant gastric lesions",
+        "Identification of biomarkers",
+        "Identification of gastric cancer hereditary predisposition"
+      ],
+      "brief_summary": "This study is a multicenter, prospective cohort study, which are planned to enroll at least 600 patients who diagnosed the primary gastric cancer (GC); around 50 patients with premalignant gastric lesions (PGLs) and early gastric neoplasias (EGC) treated by endoscopy resection; and no less than 600 healthy normal cohort participants, for more than 18 months in the Spanish population. All participants who enrolled in this registry will be questioned by the life habits survey; and clinical data an",
+      "start_date": "2021-09-09",
+      "completion_date": "2026-12-31",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT05551416"
+    },
+    {
+      "nct_id": "NCT02300571",
+      "title": "Observational Study of the Combination of Post-transplant High Dose Cyclophosphamide, Tacrolimus and Mycophenolate Mofetil for the Prevention of Acute Graft-versus-Host Disease in Patients Eligible to Allogeneic Hematopoietic Stem Cell Transplant",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Hematological Malignancies"
+      ],
+      "interventions": [],
+      "brief_summary": "This observational study is proposed to observe the effect of high-dose, post-transplantation cyclophosphamide after a T cell-replete, HLA-matched PBSC graft from an HLA-identical or mismatched donor.",
+      "start_date": "2013-09",
+      "completion_date": "2018-01",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT02300571"
+    },
+    {
+      "nct_id": "NCT01760616",
+      "title": "Huaier Granule for Prevention of Disease Progression of Hepatocarcinoma After Non-radical Hepatectomy",
+      "status": "TERMINATED",
+      "phase": "N/A",
+      "conditions": [
+        "Hepatic Carcinoma"
+      ],
+      "interventions": [
+        "Huaier Granule"
+      ],
+      "brief_summary": "To evaluate the efficacy and safety of Huaier Granule for prevention of disease progression of hepatocarcinoma after non-radical hepatectomy.",
+      "start_date": "2011-11-07",
+      "completion_date": "2017-06-30",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT01760616"
+    },
+    {
+      "nct_id": "NCT06367699",
+      "title": "Conversational Agents to Improve HPV Vaccine Acceptance in Primary Care (ECA-HPV)- Clinical Trial",
+      "status": "TERMINATED",
+      "phase": "N/A",
+      "conditions": [
+        "Human Papilloma Virus"
+      ],
+      "interventions": [
+        "Usual Care",
+        "ECA-HPV App with Clinic Notification and Adolescent Functions Disabled",
+        "ECA-HPV App with Clinic Notification Function Enabled",
+        "ECA-HPV App with Adolescent Function Enabled",
+        "ECA-HPV App with Clinic Notification and Adolescent Functions Enabled"
+      ],
+      "brief_summary": "The objective of this study is to assess the use of and satisfaction with the ECA-HPV intervention over a 16-month period, its ability to increase HPV vaccination, and the comparative effectiveness of clinic notification and adolescent ECA components on these factors.",
+      "start_date": "2024-11-13",
+      "completion_date": "2025-04-01",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT06367699"
+    },
+    {
+      "nct_id": "NCT03216187",
+      "title": "Swiss Multi-centre, Randomized, Placebo Controlled Trial of Pregabalin for Prevention of Persistent Pain in High Risk Patients Undergoing Breast Cancer Surgery",
+      "status": "TERMINATED",
+      "phase": "N/A",
+      "conditions": [
+        "Persistent Postoperative Pain"
+      ],
+      "interventions": [
+        "Pregabalin",
+        "Placebos"
+      ],
+      "brief_summary": "This study will test the benefits and risks of using pregabalin perioperatively to prevent persistent postoperative pain in patients at high risk (\\>30%) of developing such pain after breast cancer surgery.",
+      "start_date": "2018-01-09",
+      "completion_date": "2024-11-29",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT03216187"
+    }
+  ]
+}

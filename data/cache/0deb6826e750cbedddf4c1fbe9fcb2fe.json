@@ -1,0 +1,115 @@
+{
+  "timestamp": "2025-11-02T03:06:26.714524",
+  "source": "clinical_trials",
+  "query": "drug_aspirin_10",
+  "data": [
+    {
+      "nct_id": "NCT05709509",
+      "title": "Effect of Colchicine on MMP-9, NOX2, and TGF-\u03b21 in Myocardial Infarct",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "ST Elevation Myocardial Infarction",
+        "Colchicine",
+        "Cardiac Remodeling, Ventricular"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05709509"
+    },
+    {
+      "nct_id": "NCT03532698",
+      "title": "Combination of Osimertinib and Aspirin to Treat Osimertinib Resistance Non-small Cell Lung Cancer ( NSCLC)",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Non-Small Cell Lung Cancer Stage IIIB",
+        "Non-small Cell Lung Cancer Stage IV",
+        "EGFR T790M"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03532698"
+    },
+    {
+      "nct_id": "NCT06486792",
+      "title": "Stroke Prevention In Ischemic Stroke With Covert Atrial Fibrillation",
+      "status": "NOT_YET_RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Stroke",
+        "Ischemic Stroke",
+        "Cerebral Infarction",
+        "Atrial Fibrillation"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06486792"
+    },
+    {
+      "nct_id": "NCT01968798",
+      "title": "ASPREE Cancer Endpoints Study",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Cancer"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01968798"
+    },
+    {
+      "nct_id": "NCT06478537",
+      "title": "TPO-RA Treatment on Immune Tolerance Induction of ITP Patients With Sustained Platelet Recovery After Treatment Termination",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Immune Thrombocytopenia"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06478537"
+    },
+    {
+      "nct_id": "NCT01740921",
+      "title": "GLP-1 and Microvascular Function in Type 2 Diabetes",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Type 2 Diabetes"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01740921"
+    },
+    {
+      "nct_id": "NCT01061034",
+      "title": "Pharmacological Study That Measures Omeprazole Effect on Aspirins Absorption in Healthy Volunteers",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Aspirin Blood Level",
+        "Proton Pump Inhiditor Treatment"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01061034"
+    },
+    {
+      "nct_id": "NCT00137033",
+      "title": "Celebrex Low Dose ASA Study Examining the Incidence of Gastroduodenal Ulcers in a Healthy Population",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Peptic Ulcers"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT00137033"
+    },
+    {
+      "nct_id": "NCT00563875",
+      "title": "Laboratory Aspirin Resistance in Diabetics and Non-Diabetics",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Drug Resistance"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT00563875"
+    },
+    {
+      "nct_id": "NCT06952712",
+      "title": "Aspirin 150 mg vs 100 mg for Prevention of Preeclampsia in High-Risk Obese Pregnant Women",
+      "status": "NOT_YET_RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Preeclampsia"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06952712"
+    }
+  ]
+}
